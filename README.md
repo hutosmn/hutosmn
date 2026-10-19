@@ -1,8 +1,6 @@
-🌙 Huto
-
 <div align="center">
 
-@hutosmn
+<b>🌙 Huto</b>
 
 Developer · Web enthusiast · Infrastructure tinkerer
 
@@ -42,8 +40,6 @@ Workflow	Git, GitHub, npm
 📌 Explore my work
 
 Take a look through my repositories to discover what I’m building, experimenting with, and improving.
-
-→ Browse my repositories
 
 🌌 A little beyond the code
 
